@@ -1,0 +1,17 @@
+name = "Riptide"
+license = "MIT"
+licenselink = ""
+description = "this is a theme just for me."
+homepage = ""
+tags = ["blog", "personal"]
+features = ["blog", "personal"]
+min_version = 0.18
+
+[author]
+  name = "Austin Riendeau"
+  homepage = ""
+
+[original]
+  name = ""
+  homepage = ""
+  repo = ""

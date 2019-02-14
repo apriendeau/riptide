@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/static/about/</loc>
+    <lastmod>2017-02-02T21:09:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/evh-5150/</loc>
+    <lastmod>2019-01-14T16:36:04-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/boss-gt-1000/</loc>
+    <lastmod>2018-11-04T20:26:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/horizon-devices-precision-drive/</loc>
+    <lastmod>2018-03-22T16:15:25-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/diy-les-paul-finishing/</loc>
+    <lastmod>2017-11-22T14:02:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/diy-guitar-kits/</loc>
+    <lastmod>2017-04-30T23:42:04-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/pedalboards/</loc>
+    <lastmod>2017-03-31T21:24:01-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/know-thy-power/</loc>
+    <lastmod>2017-03-09T22:05:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/eqd-space-spiral/</loc>
+    <lastmod>2017-02-25T20:54:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/whats-with-all-the-wood/</loc>
+    <lastmod>2017-02-13T21:15:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/walrus-audio-red/</loc>
+    <lastmod>2017-02-01T21:00:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/5150/</loc>
+    <lastmod>2019-01-14T16:36:04-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/amps/</loc>
+    <lastmod>2019-01-14T16:36:04-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/boss/</loc>
+    <lastmod>2018-11-04T20:26:09-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/build/</loc>
+    <lastmod>2017-04-30T23:42:04-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-01-14T16:36:04-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/delay/</loc>
+    <lastmod>2017-02-25T20:54:51-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/diy/</loc>
+    <lastmod>2017-11-22T14:02:17-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/earthquaker-devices/</loc>
+    <lastmod>2017-02-25T20:54:51-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/effects/</loc>
+    <lastmod>2018-11-04T20:26:09-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/eqd/</loc>
+    <lastmod>2017-02-25T20:54:51-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/evh/</loc>
+    <lastmod>2019-01-14T16:36:04-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/finishing/</loc>
+    <lastmod>2017-11-22T14:02:17-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/gain/</loc>
+    <lastmod>2018-03-22T16:15:25-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/guitar/</loc>
+    <lastmod>2017-11-22T14:02:17-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/guitar-kit/</loc>
+    <lastmod>2017-04-30T23:42:04-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/kit/</loc>
+    <lastmod>2017-04-30T23:42:04-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/luthier/</loc>
+    <lastmod>2017-11-22T14:02:17-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/multi-effects/</loc>
+    <lastmod>2018-11-04T20:26:09-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/pedalboard/</loc>
+    <lastmod>2017-03-31T21:24:01-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/pedals/</loc>
+    <lastmod>2018-03-22T16:15:25-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/picks/</loc>
+    <lastmod>2017-02-13T21:15:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/plectrums/</loc>
+    <lastmod>2017-02-13T21:15:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-01-14T16:36:04-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/power/</loc>
+    <lastmod>2017-03-09T22:05:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/power-supplies/</loc>
+    <lastmod>2017-03-09T22:05:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/review/</loc>
+    <lastmod>2018-03-22T16:15:25-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-02-02T21:09:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/static/</loc>
+    <lastmod>2017-02-02T21:09:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/telecaster/</loc>
+    <lastmod>2017-04-30T23:42:04-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/tone/</loc>
+    <lastmod>2017-02-13T21:15:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/walrus-audio/</loc>
+    <lastmod>2017-02-01T21:00:02-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,63 @@
+
+LanguageCode= "en-EN"
+Title= "Riptide Rhythm"
+paginate = 5
+DisqusShortname = "riptide-rhythm"
+Copyright = "All rights reserved - 2015"
+canonifyurls = true
+theme = "casper"
+publishDir = "docs"
+enableRobotsTXT = true
+contentDir = "content"
+
+[author]
+  name = "Austin Riendeau"
+
+[taxonomies]
+  # Optional. Use if you want tags and lists.
+  category = "categories"
+
+[params]
+  description = "Guitars, Effects Pedals & Music"
+  metadescription = "Guitars, Effects Pedals & Reviews"
+  cover = "images/background.jpg"
+  author = "Austin Riendeau"
+  authorlocation = "Denver, Colorado"
+  authorwebsite = "http://riptide-rhythm.com"
+  authorbio= "My name is Austin"
+  googleAnalyticsUserID = "UA-90952706-2"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  # githubName = "vjeantet"
+  # twitterName = "apriendeau"
+  # facebookName = ""
+  # codepenName = ""
+  # linkedinName = ""
+  # stackoverflowId = ""
+  # keybaseName = ""
+  # flickrName = ""
+  # instagramName = ""
+  # email = ""
+  # pinterestName = ""
+  # googlePlusName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true
+
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"
+
+  [params.social]
+    twitter = "apriendeau"
+
+[[menu.main]]
+  name = "archives"
+  url = "/posts/"
+  weight = -1000
+
+[[menu.main]]
+  name = "home"
+  url = "/"
+  weight = 1000
+

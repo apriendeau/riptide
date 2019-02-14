@@ -1,0 +1,58 @@
+baseURL = "https://www.riptide-rhythm.com/"
+languageCode = "en-us"
+title = "Riptide Rhythm"
+paginate = 5
+disqusShortname = "riptide-rhythm"
+canonifyurls = true
+theme = "riptide"
+publishDir = "docs"
+enableRobotsTXT = true
+contentDir = "content"
+
+[author]
+  name = "Austin Riendeau"
+
+[taxonomies]
+  # Optional. Use if you want tags and lists.
+  category = "categories"
+
+[params]
+  title = "the riptide rhythm"
+  subtitle = "Guitars, Effects Pedals & Reviews"
+  DateForm = "Mon Jan 2, 2006"
+  description = "Guitars, Effects Pedals & Reviews"
+  name = "Austin Riendeau"
+  postSummariesFrontPage = 5
+  showReadTime = true
+  copyright = "all rights reserved 2006-2017"
+
+  defaultDescription = "Guitars, Effects Pedals & Reviews"
+  defaultKeywords = "guitar,effects,reviews,pedals,gear,music"
+  theme = "layout"
+  customCSS = ""
+  tagline = "Guitars, Effects Pedals & Reviews"
+  hideReadingTime = false
+
+  truncate = true
+  home = "home"
+  highlight = "monokai"
+
+  googleAnalytics = "UA-90952706-2"
+  gravatarHash = "MD5 hash of your Gravatar email address"
+
+  googleplus = ""
+  facebook = "https://www.facebook.com/riptiderhythm/"
+  twitter = "https://twitter.com/apriendeau"
+  youtube = ""
+
+[[params.social]]
+  title = "twitter"
+  url = "https://twitter.com/apriendeau"
+[[params.social]]
+  title = "github"
+  url = "https://github.com/apriendeau"
+
+[[menu.main]]
+  name = "archives"
+  url = "/post/"
+  weight = -180
