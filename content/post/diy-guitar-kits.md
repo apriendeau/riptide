@@ -5,7 +5,8 @@ categories = ["guitar", "DIY", "kit", "build", "telecaster", "guitar-kit"]
 keywords = ["guitar", "DIY", "kit", "build", "telecaster", "guitar-kit"]
 date = "2017-04-30T23:42:04-06:00"
 
-ogimage = "http://www.riptide-rhythm.com/img/diy-guitar-build/diy-tele-build.jpg"
+ogimage = "/images/diy-guitar-build/diy-tele-build.jpg"
+
 
 +++
 

@@ -5,7 +5,7 @@ keywords = ["DIY", "guitar", "luthier", "les paul", "finishing", "keda"]
 categories = ["DIY", "guitar", "luthier", "finishing"]
 
 slug = "diy-les-paul-finishing"
-ogimage = "http://www.riptide-rhythm.com/img/diy-les-paul-finishing/purple-les-paul-lacquered.jpg"
+ogimage = "/images/diy-les-paul-finishing/purple-les-paul-lacquered.jpg"
 
 +++
 

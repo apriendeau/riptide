@@ -6,7 +6,7 @@ keywords = ["distortion", "effects", "walrus-audio", "guitar", "review", "red", 
 categories = ["effects", "gain", "walrus-audio", "review"]
 slug = "/walrus-audio-red"
 
-ogimage = "http://www.riptide-rhythm.com/img/walrus-audio/logo300.png"
+image = "/images/walrus-audio/the-red.jpg"
 
 +++
 

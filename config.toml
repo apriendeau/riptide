@@ -1,14 +1,14 @@
-
 LanguageCode= "en-EN"
 Title= "Riptide Rhythm"
 paginate = 5
 DisqusShortname = "riptide-rhythm"
-Copyright = "All rights reserved - 2015"
+Copyright = "All rights reserved - 2019"
 canonifyurls = true
 theme = "casper"
 publishDir = "docs"
 enableRobotsTXT = true
 contentDir = "content"
+BaseUrl= "https://riptide-rhythm.com/"
 
 [author]
   name = "Austin Riendeau"
@@ -24,7 +24,7 @@ contentDir = "content"
   author = "Austin Riendeau"
   authorlocation = "Denver, Colorado"
   authorwebsite = "http://riptide-rhythm.com"
-  authorbio= "My name is Austin"
+  authorbio= "I make noise, sometimes call it music. I have background in Violin, Guitar and Bass."
   googleAnalyticsUserID = "UA-90952706-2"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""

@@ -4,7 +4,6 @@ date = "2018-11-04T20:26:09-07:00"
 keywords = ["boss", "gt-1000", "multi-effects"]
 categories = ["boss", "effects", "multi-effects"]
 slug = "/boss-gt-1000"
-ogimage = ""
 
 +++
 
