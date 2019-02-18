@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Power on Riptide Rhythm</title>
-    <link>https://riptide-rhythm.com/categories/power/</link>
+    <link>http://riptide-rhythm.com/categories/power/</link>
     <description>Recent content in Power on Riptide Rhythm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>All rights reserved - 2019</copyright>
     <lastBuildDate>Thu, 09 Mar 2017 22:05:58 -0700</lastBuildDate>
     
-	<atom:link href="https://riptide-rhythm.com/categories/power/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://riptide-rhythm.com/categories/power/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Know thy Power</title>
-      <link>https://riptide-rhythm.com/post/know-thy-power/</link>
+      <link>http://riptide-rhythm.com/post/know-thy-power/</link>
       <pubDate>Thu, 09 Mar 2017 22:05:58 -0700</pubDate>
       
-      <guid>https://riptide-rhythm.com/post/know-thy-power/</guid>
+      <guid>http://riptide-rhythm.com/post/know-thy-power/</guid>
       <description>These are the most common questions that I get asked when people first get started.
  How should I power my pedals? Should I use 9v or 18v? Why do you need a clean power supply? What is wrong with a daisy chain?  So many questions on what you would believe to be a simple topic, right? Actually, this is where the most common mistakes are made. I have seen people fry pedals and make a really good sounding pedal sound really bad just from giving it the wrong voltage.</description>
     </item>

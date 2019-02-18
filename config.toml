@@ -8,7 +8,7 @@ theme = "casper"
 publishDir = "docs"
 enableRobotsTXT = true
 contentDir = "content"
-BaseUrl= "https://riptide-rhythm.com/"
+BaseUrl= "http://riptide-rhythm.com/"
 
 [author]
   name = "Austin Riendeau"

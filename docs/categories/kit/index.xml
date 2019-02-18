@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kit on Riptide Rhythm</title>
-    <link>https://riptide-rhythm.com/categories/kit/</link>
+    <link>http://riptide-rhythm.com/categories/kit/</link>
     <description>Recent content in Kit on Riptide Rhythm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>All rights reserved - 2019</copyright>
     <lastBuildDate>Sun, 30 Apr 2017 23:42:04 -0600</lastBuildDate>
     
-	<atom:link href="https://riptide-rhythm.com/categories/kit/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://riptide-rhythm.com/categories/kit/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DIY Guitar Kit</title>
-      <link>https://riptide-rhythm.com/post/diy-guitar-kits/</link>
+      <link>http://riptide-rhythm.com/post/diy-guitar-kits/</link>
       <pubDate>Sun, 30 Apr 2017 23:42:04 -0600</pubDate>
       
-      <guid>https://riptide-rhythm.com/post/diy-guitar-kits/</guid>
+      <guid>http://riptide-rhythm.com/post/diy-guitar-kits/</guid>
       <description>So I decided it was time. I am tired of buying guitars that aren&amp;rsquo;t exactly what I want. I always end up replacing everything in the guitar, from the nut and the strings to the electronics. I decided that I needed a guitar with single coil pickups. I am a Stratocaster person so I decided that it was time to build a Telecaster. I like my guitars at the opposite ends of the spectrum.</description>
     </item>
     
