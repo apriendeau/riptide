@@ -2134,20 +2134,6 @@ body:not(.post-template) .post-title {
   }
 }
 
-.logos-container .brand-logo {
-  width: 100px;
-  padding: 0 5px;
-  display: inherit;
-  float: left;
-}
-
-.logos-container {
-  clear: both;
-  height: 100px;
-  width: 100%;
-  text-align: left;
-  display: block;
-}
 
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
