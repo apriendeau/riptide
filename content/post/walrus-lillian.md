@@ -18,7 +18,7 @@ during WWII.
 
 ## Knobs
 
-<img src="/images/walrus-audio/lillian-pedal.jpg" style="width:350px; left:20%; float:left;">
+<img class="post-image" src="/images/walrus-audio/lillian-pedal.jpg" style="width:350px; left:20%; float:left;">
 
 The Rate knob controls the Low Frequency Oscillator (LFO) speed from a steady pace to crazy past speeds. The
 Width knob controls the range of which frequencies are allowed to pass through; the higher the setting creates

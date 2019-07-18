@@ -16,8 +16,8 @@ called the Precision Drive but people keep asking me for my opinion since I own 
 designed for modern metal, not your dad's metal. The pedal was built by MXR, so it is definitely durable. It has passed
 my strenuous and thorough toddler testing system.
 
-<div style="width: 220px; float: left; padding: 10px 20px 10px 10px;">
-    <img src="/img/horizon-devices/precision-drive.png" style="height: 350px;" alt="precision drive">
+<div class="post-image" style="width: 220px; float: left; padding: 10px 20px 10px 10px;">
+    <img src="/images/horizon-devices/precision-drive.png" style="height: 350px;" alt="precision drive">
 </div>
 
 ## The Pedal

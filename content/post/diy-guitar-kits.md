@@ -26,7 +26,7 @@ phone out, I got to work. I did all the pre-build steps. For being a finished bo
 be pre-drilled, which they said in the instructions that it might be. They weren't so had to do it all. I went through
 mock build steps pretty quickly and had it all partially together like the directions said.
 
-<div id="tele-image" style="height:300px; float: left; clear: left; margin: 10px; ">
+<div id="tele-image" class="post-image" style="height:300px; float: left; clear: left; margin: 10px; ">
   <img src="/img/diy-guitar-build/diy-tele-build.jpg" alt="telecaster build" style="height: 300px;">
 </div>
 The final steps began and this is where I ran into trouble. I got all the pickups in place and soldered the neck pickup.

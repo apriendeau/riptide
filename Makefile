@@ -8,7 +8,7 @@ post: ## create a new post
 	hugo new post/${args}.md
 
 server: ## create a localserver to run on localhost:1313
-	hugo ${args} -t casper server -D --config="config.toml"
+	hugo ${args} server -D --config="config.toml"
 
 rebuild-server: ## same as server but disables fast rendering
 	hugo ${args} server --disableFastRender -D --config="config.toml"

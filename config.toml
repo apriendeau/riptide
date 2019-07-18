@@ -1,63 +1,77 @@
-LanguageCode= "en-EN"
-Title= "Riptide Rhythm"
-paginate = 5
-DisqusShortname = "riptide-rhythm"
-Copyright = "All rights reserved - 2019"
-canonifyurls = true
-theme = "casper"
-publishDir = "docs"
-enableRobotsTXT = true
-contentDir = "content"
 BaseUrl= "https://www.riptide-rhythm.com/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+Title = "Riptide Rhythm"
+theme = "hermit"
+# enableGitInfo = true
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+rssLimit = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+enableEmoji = true 
+googleAnalytics = "UA-90952706-2"
+disqusShortname = "riptide-rhythm"
+contentDir = "content"
+publishDir = "docs"
 
 [author]
   name = "Austin Riendeau"
 
+[blackfriday]
+  # hrefTargetBlank = true
+  # noreferrerLinks = true
+  # nofollowLinks = true
+
 [taxonomies]
-  # Optional. Use if you want tags and lists.
+  tag = "tags"
   category = "categories"
 
 [params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
   description = "Guitars, Effects Pedals & Music"
-  metadescription = "Guitars, Effects Pedals & Reviews"
-  cover = "images/background.jpg"
-  author = "Austin Riendeau"
-  authorlocation = "Denver, Colorado"
-  authorwebsite = "http://riptide-rhythm.com"
-  authorbio= "I make noise, sometimes call it music. I have background in Violin, Guitar and Bass."
-  googleAnalyticsUserID = "UA-90952706-2"
-  # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = ""
-  # githubName = "vjeantet"
-  # twitterName = "apriendeau"
-  # facebookName = ""
-  # codepenName = ""
-  # linkedinName = ""
-  # stackoverflowId = ""
-  # keybaseName = ""
-  # flickrName = ""
-  # instagramName = ""
-  # email = ""
-  # pinterestName = ""
-  # googlePlusName = ""
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = true
+  # images = [""]
+  themeColor = "#0f7ea3"
 
-  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
-  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
-  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
-  hjsStyle = "default"
+  homeSubtitle = "Guitars, Effects Pedals & Music"
+  footerCopyright = ' All rights reserved'
+  bgImg = "images/background2500.jpg"  # Homepage background-image URL
 
-  [params.social]
-    twitter = "apriendeau"
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  # gitUrl = "https://github.com/username/repository/commit/"
 
-[[menu.main]]
-  name = "archives"
-  url = "/post/"
-  weight = -1000
+  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
+  justifyContent = false  # Set "text-align: justify" to `.content`.
 
-[[menu.main]]
-  name = "home"
-  url = "/"
-  weight = 1000
+  relatedPosts = false  # Add a related content section to all single posts page
+
+  # Add custom css
+  customCSS = ["css/brands.css"]
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/apriendeau"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://instagram.com/apriendeau"
+
+
+[menu]
+
+  [[menu.main]]
+    name = "articles"
+    url = "/post/"
+    weight = 1000
+
+  [[menu.main]]
+    name = "home"
+    url = "/"
+    weight = -1000
 

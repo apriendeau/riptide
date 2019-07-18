@@ -17,24 +17,20 @@ damn. Someone may this helpful, others won't. Making music and noise is a passio
 <br/>
 
 ## Brands I Use
-<br />
-<div class="logos-container">
-  <a href="http://www.evhgear.com/" class="brand-logo">
-    <img alt="EVH" src="/images/brands/evh.png" class="brand-logo evh">
-  </a>
-  <a href="https://www.jacksonguitars.com/" class="brand-logo">
-    <img alt="Jackson Guitars" src="/images/brands/jackson-logo.png" class="brand-logo jackson" >
-  </a>
-  <a href="http://www.schecterguitars.com/" class="brand-logo">
-    <img alt="Schecter Guitar Research" src="/images/brands/schecter-black-logo.png" class="brand-logo schecter">
-  </a>
-  <a href="http://www.walrusaudio.com/" class="brand-logo">
-    <img alt="Walrus Audio" src="/images/brands/Walrus.png" class="brand-logo walrus">
-  </a>
-  <a href="http://www.earthquakerdevices.com/" class="brand-logo">
-    <img alt="Earthquaker Devices" src="/images/brands/earthquakerdevices.png" class="brand-logo earthquaker">
-  </a>
-  <a href="http://www.wamplerpedals.com/" class="brand-logo">
-    <img alt="Wampler Pedals" src="/images/brands/wampler.png" class="brand-logo wampler">
-  </a>
-</div>
+<ul class="logos-container">
+  <li>
+    <a href="http://www.schecterguitars.com/" class="brand-logo">
+      <img alt="Schecter Guitar Research" src="/images/brands/schecter-black-logo.png" class="brand-logo schecter">
+    </a>
+  </li>
+  <li>
+    <a href="http://www.walrusaudio.com/" class="brand-logo">
+      <img alt="Walrus Audio" src="/images/brands/Walrus.png" class="brand-logo walrus">
+    </a>
+  </li>
+  <li class="earthquaker">
+    <a href="http://www.earthquakerdevices.com/" class="brand-logo earthquaker">
+      <img alt="Earthquaker Devices" src="/images/brands/earthquakerdevices.png" class="brand-logo earthquaker">
+    </a>
+  </li>
+</ul>

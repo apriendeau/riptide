@@ -15,7 +15,7 @@ I have not been paid for this review.
 ## Overview
 
 <div style="width:250px; float: left; padding: 5px 10px; border-radius: 100px;">
-	<img style="border-radius: 150px; width:275px;" src="/img/walrus-audio/logo300.png" alt="Walrus Audio">
+	<img style="border-radius: 150px; width:275px;" src="/images/walrus-audio/logo300.png" alt="Walrus Audio">
 </div>
 
 [Walrus Audio](http://bit.ly/2kNaxi2) unveiled at NAMM '17 their new distortion, "Red". It's a "take no prisioners"
@@ -25,7 +25,7 @@ The "texture" switch toggles between an uncompressed, overdrive-like sound and a
 ## The Pedal
 
 <div style="width:300px; float: right; padding: 5px 10px 0 10px; border-radius: 10px;">
-	<img style="border-radius: 10px; width:275px;" src="/img/walrus-audio/the-red-square.jpg" alt="Walrus Audio">
+	<img style="border-radius: 10px; width:275px;" src="/images/walrus-audio/the-red-square.jpg" alt="Walrus Audio">
 </div>
 
 I like some high-gain in my distortion pedals but this adds a little sparkle that is hard to wrap my words

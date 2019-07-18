@@ -1,13 +1,14 @@
-baseURL = "https://www.riptide-rhythm.com/"
-languageCode = "en-us"
-title = "Riptide Rhythm"
+LanguageCode= "en-EN"
+Title = "Riptide Rhythm"
 paginate = 5
-disqusShortname = "riptide-rhythm"
+DisqusShortname = "riptide-rhythm"
+Copyright = "All rights reserved - 2019"
 canonifyurls = true
-theme = "riptide"
+theme = "casper"
 publishDir = "docs"
 enableRobotsTXT = true
 contentDir = "content"
+BaseUrl= "https://www.riptide-rhythm.com/"
 
 [author]
   name = "Austin Riendeau"
@@ -17,42 +18,46 @@ contentDir = "content"
   category = "categories"
 
 [params]
-  title = "the riptide rhythm"
-  subtitle = "Guitars, Effects Pedals & Reviews"
-  DateForm = "Mon Jan 2, 2006"
-  description = "Guitars, Effects Pedals & Reviews"
-  name = "Austin Riendeau"
-  postSummariesFrontPage = 5
-  showReadTime = true
-  copyright = "all rights reserved 2006-2017"
+  description = "Guitars, Effects Pedals & Music"
+  metadescription = "Guitars, Effects Pedals & Reviews"
+  cover = "images/background.jpg"
+  author = "Austin Riendeau"
+  authorlocation = "Denver, Colorado"
+  authorwebsite = "http://riptide-rhythm.com"
+  authorbio= "I make noise, sometimes call it music. I have background in Violin, Guitar and Bass."
+  googleAnalyticsUserID = "UA-90952706-2"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  # githubName = "vjeantet"
+  # twitterName = "apriendeau"
+  # facebookName = ""
+  # codepenName = ""
+  # linkedinName = ""
+  # stackoverflowId = ""
+  # keybaseName = ""
+  # flickrName = ""
+  # instagramName = ""
+  # email = ""
+  # pinterestName = ""
+  # googlePlusName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true
 
-  defaultDescription = "Guitars, Effects Pedals & Reviews"
-  defaultKeywords = "guitar,effects,reviews,pedals,gear,music"
-  theme = "layout"
-  customCSS = ""
-  tagline = "Guitars, Effects Pedals & Reviews"
-  hideReadingTime = false
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"
 
-  truncate = true
-  home = "home"
-  highlight = "monokai"
-
-  googleAnalytics = "UA-90952706-2"
-  gravatarHash = "MD5 hash of your Gravatar email address"
-
-  googleplus = ""
-  facebook = "https://www.facebook.com/riptiderhythm/"
-  twitter = "https://twitter.com/apriendeau"
-  youtube = ""
-
-[[params.social]]
-  title = "twitter"
-  url = "https://twitter.com/apriendeau"
-[[params.social]]
-  title = "github"
-  url = "https://github.com/apriendeau"
+  [params.social]
+    twitter = "apriendeau"
 
 [[menu.main]]
   name = "archives"
   url = "/post/"
-  weight = -180
+  weight = -1000
+
+[[menu.main]]
+  name = "home"
+  url = "/"
+  weight = 1000
+

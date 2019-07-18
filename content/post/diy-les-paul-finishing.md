@@ -10,17 +10,17 @@ ogimage = "/images/diy-les-paul-finishing/purple-les-paul-lacquered.jpg"
 +++
 
 <figure id="tele-image" style="height:300px; float: right; clear: right; margin: 10px; text-align: right;">
-  <img src="/img/diy-les-paul-finishing/blue-les-paul.jpg" alt="telecaster build" style="height: 300px;">
+  <img src="/images/diy-les-paul-finishing/blue-les-paul.jpg" alt="telecaster build" style="height: 300px;">
   <figcaption>Blue Finish</figcaption>
 </figure>
 
 <figure id="tele-image" style="height:300px; float: right; clear: right; margin: 10px; text-align: right;">
-  <img src="/img/diy-les-paul-finishing/purple-les-paul-unlacquered.jpg" alt="telecaster build" style="height: 300px;">
+  <img src="/images/diy-les-paul-finishing/purple-les-paul-unlacquered.jpg" alt="telecaster build" style="height: 300px;">
   <figcaption>No Lacquer Finish</figcaption>
 </figure>
 
 <figure id="tele-image" style="height:500px; float: right; clear: right; margin: 10px; text-align: right; margin-bottom: 10px;">
-  <img src="/img/diy-les-paul-finishing/purple-les-paul-lacquered.jpg" alt="les paul lacquered unbuffed" style="height: 500px;">
+  <img src="/images/diy-les-paul-finishing/purple-les-paul-lacquered.jpg" alt="les paul lacquered unbuffed" style="height: 500px;">
   <figcaption>Lacquered Unbuffed Finish</figcaption>
 </figure>
 
