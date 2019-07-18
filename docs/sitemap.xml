@@ -227,29 +227,6 @@
   </url>
   
   <url>
-    <loc>https://www.riptide-rhythm.com/post/whats-with-all-the-wood/</loc>
-    <lastmod>2017-02-13T21:15:58-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.riptide-rhythm.com/categories/picks/</loc>
-    <lastmod>2017-02-13T21:15:58-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.riptide-rhythm.com/categories/plectrums/</loc>
-    <lastmod>2017-02-13T21:15:58-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.riptide-rhythm.com/categories/tone/</loc>
-    <lastmod>2017-02-13T21:15:58-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.riptide-rhythm.com/static/</loc>
     <lastmod>2017-02-02T21:09:47-07:00</lastmod>
     <priority>0</priority>
@@ -263,6 +240,11 @@
   <url>
     <loc>https://www.riptide-rhythm.com/categories/walrus-audio/</loc>
     <lastmod>2017-02-01T21:00:02-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.riptide-rhythm.com/tags/</loc>
     <priority>0</priority>
   </url>
   

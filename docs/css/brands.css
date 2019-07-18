@@ -1,0 +1,34 @@
+.logos-container {
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+.logos-container li {
+    list-style: none;
+    width: 200px;
+}
+.brand-logo {
+    padding-top: 5px;
+    clear: right;
+}
+
+.brand-logo.jackson {
+    padding-left: 10px;
+}
+
+.brand-logo.schecter {
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+.brand-logo.walrus {
+    width:150px;
+}
+
+.logos-container li.earthquaker {
+    width:600px;
+}
+
+.post-image {
+    padding-right: 10px;
+    border-radius: 5px;
+}
