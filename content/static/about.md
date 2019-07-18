@@ -19,6 +19,11 @@ damn. Someone may this helpful, others won't. Making music and noise is a passio
 ## Brands I Use
 <ul class="logos-container">
   <li>
+    <a href="" class="brand-logo">
+      <img alt="Orange Amplication" src="/images/orange/orange.png" class="brand-logo orange">
+    </a>
+  </li>
+  <li>
     <a href="http://www.schecterguitars.com/" class="brand-logo">
       <img alt="Schecter Guitar Research" src="/images/brands/schecter-black-logo.png" class="brand-logo schecter">
     </a>
